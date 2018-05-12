@@ -54,6 +54,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21964#The-Short-story
 gutenberg_issued: '2007-06-29'
 gutenberg_type: Text
 identifiers:
