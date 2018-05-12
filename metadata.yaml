@@ -1,0 +1,75 @@
+_repo: The-Short-story_21964
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Atkinson, William Patterson
+    birthdate: 1869
+    gutenberg_agent_id: '24998'
+    url: http://www.gutenberg.org/2009/agents/24998
+  contributors:
+  - agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+  - agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  - agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+  - agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21964'
+  lccn: '16020255'
+language: en
+publication_note: 'Boston;  New York;  Chicago :  Allyn and Bacon,  1916'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Short stories'
+tableOfContents: "Irving: Rip Van Winkle (1820)\r\nPoe: The Gold Bug (1842); The Purloined\
+  \ Letter (1845)\r\nHawthorne: Howe's Masquerade (1838); The Birthmark (1843)\r\n\
+  Harte: The Outcasts of Poker Flat (1869)\r\nStevenson: The Sire de Malétroit's Door\
+  \ (1878); Markheim (1885)\r\nKipling: Wee Willie Winkie (1888)."
+title: The Short-story
+url: http://www.gutenberg.org/ebooks/21964
